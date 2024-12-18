@@ -25,8 +25,14 @@
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     </p>
     <p>
-        <a src="mailto:sebas2002jhon@gmail.com">
+        <a href="mailto:sebas2002jhon@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+      <a href="https://discord.gg/jhons.6570" target="_blank"> 
+          <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+      <a>
+        <a href="https://www.linkedin.com/in/jhonslopez/" target="_blank">
+          <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>
     </p>
   </div>
