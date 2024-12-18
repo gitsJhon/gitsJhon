@@ -29,6 +29,7 @@
   <!-- Hollow Knight GIF -->
   <div>
     <img height="150" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
+    <img height="150" src=https://tenor.com/search/hollow+knight-stickers"/>
   </div>
 </div>
 
