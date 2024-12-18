@@ -24,12 +24,16 @@
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     </p>
+    <p>
+        <a src="mailto:sebas2002jhon@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+        </a>
+    </p>
   </div>
 
   <!-- Hollow Knight GIF -->
   <div>
     <img height="150" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif"/>
-    <img height="150" src=https://tenor.com/search/hollow+knight-stickers"/>
   </div>
 </div>
 
